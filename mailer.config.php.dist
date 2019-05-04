@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'from' => 'from@email.com',
+    'to' => 'to@email.com',
+    'host' => 'smtp.host.com',
+    'port' => '587',
+    'secure' => 'tls',
+    'username' => 'username',
+    'password' => 'password',
+];
